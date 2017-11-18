@@ -1,7 +1,8 @@
 # hello-world
 This is the comment made e readme-edits bracnh:
 
-Hi everyone.
-I love to doJava Programming.
-I also want to Add these contents to my Master branch.
-I am java developer working on Enterprise wide Java Application.
+Nothing's gonna change my Original content in master.
+Only this content will be appended to the existing content in this file present in the amster directory.
+That too after i create a new pull request and then merge it.
+
+
